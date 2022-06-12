@@ -1,0 +1,28 @@
+.l-d1 {
+  display: flex;
+  width: 400px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.l-b1 {
+  border-width: 0px;
+  color: #0f172a;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.l-d2 {
+  list-style: none;
+}
+
+.l-b2 {
+  color: #0284c7;
+  font-size: 20px;
+  font-weight: bold;
+  border: 1px solid #0284c7;
+  border-radius: 5px;
+  background-color: transparent;
+  padding: 15px;
+}
